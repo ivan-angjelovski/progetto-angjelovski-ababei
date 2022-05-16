@@ -1,85 +1,33 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://storage.googleapis.com/download/storage/v1/b/cambieri-almec-public/o/client_upload_images%2Fcompanies_images%2F1808eaf7d7f-4tvvrxde3%2Flmsdn7y0l-almec.png?generation=1651661307387459&alt=media" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Progetto d'esame per Almec spa</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Ababei Edoardo & Angjelovski Ivan
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ivan-angjelovski/progetto-angjelovski-ababei"><strong>Esplora la documentazione »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+ 
   </p>
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Informazioni sul progetto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Stiamo realizzando un progetto per la comunicazione bidirezionale con modem appartenenti alla Almec Spa. Questo progetto/piattaforma si basa su tecnologia IOT. I dispositivi inviano dati in tempo reale al nostro server e noi elaboriamo le informazioni in modo da renderle user-friendly. In seconda battuta abbiamo la comunicazione verso i modem, che consente all'utente di controllare il dispositivo da remoto (nel caso della suddetta azienda anche di far effettuare spostamenti di macchine fisiche).
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -90,24 +38,19 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
-### Built With
+### Tecnologie utilizzate
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+* [Express](https://expressjs.com/it/)
+* [Postgresql](https://www.postgresql.org/)
+* [Ubuntu server](https://www.ubuntu-it.org/scopri-ubuntu/server)
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -143,7 +86,7 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -154,7 +97,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -171,7 +114,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -189,7 +132,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -198,7 +141,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -209,7 +152,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
@@ -227,7 +170,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">torna su</a>)</p>
 
 
 
