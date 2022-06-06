@@ -27,8 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Informazioni sul progetto
 
-Stiamo realizzando un progetto per la comunicazione bidirezionale con modem appartenenti alla Almec Spa. Questo progetto/piattaforma si basa su tecnologia IOT. I dispositivi inviano dati in tempo reale al nostro server e noi elaboriamo le informazioni in modo da renderle user-friendly. In seconda battuta abbiamo la comunicazione verso i modem, che consente all'utente di controllare il dispositivo da remoto (nel caso della suddetta azienda anche di far effettuare spostamenti di macchine fisiche).
-
+Il progetto realizzato permette la comunicazione bidirezionale con modem appartenenti alla Almec Spa. Questo progetto/piattaforma si basa su tecnologia IOT. I dispositivi inviano dati in tempo reale al server, il quale elaborerà le informazioni in modo da renderle user-friendly. In secondo luogo è gestita la comunicazione verso i modem, che consente all'utente, attraverso un applicazione web,  di controllare il dispositivo da remoto.
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
@@ -50,42 +49,6 @@ Use the `BLANK_README.md` to get started.
 * [Express](https://expressjs.com/it/)
 * [Postgresql](https://www.postgresql.org/)
 * [Ubuntu server](https://www.ubuntu-it.org/scopri-ubuntu/server)
-<p align="right">(<a href="#top">torna su</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#top">torna su</a>)</p>
 
 
